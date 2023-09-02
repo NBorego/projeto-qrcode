@@ -34,7 +34,6 @@ div#imagem{
 }
 
 div#imagem > img {
-    display: inline-block;
     margin-top: 20px;
     border-radius: 20px;
     height: 300px;
